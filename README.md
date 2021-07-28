@@ -1,2 +1,2 @@
-# Kmeans
-The K-means algorithm is a popular clustering method for finding a partition of N unlabeled observations into K distinct clusters, where K is a parameter of the method.
+This project was programmed as part of Software Project course,in my studies at Tel Aviv University.
+This is my implementation for the Kmeans algoritem in both Python and C.
